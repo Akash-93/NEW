@@ -1,4 +1,4 @@
 # hello-world
-This is my new project /n
-I want to learn new things about API /n
+This is my new project 
+I want to learn new things about API 
 Hope to see good results coming out
